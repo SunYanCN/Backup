@@ -76,7 +76,7 @@ a:link, a:visited {
     border:1px solid #cccccc;
     position: relative;
     top: -20px;
-    width: 120px;
+    width: 140px;
     left: -20px;
     padding-top: 3px;
     padding-right: 0px;
@@ -182,4 +182,8 @@ h2 {
 	font-weight: normal;
 	font-family:  "PingFang SC";
 	background: #d4d4d4;
+}
+
+body, button, input, select, textarea {
+	font: 17px/1.5 Tahoma, Arial, Helvetica, sans-serif;
 }
