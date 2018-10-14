@@ -1,0 +1,4 @@
+<div class="col-6">
+<h1 class="site-title"><a href="https://www.cnblogs.com/sunyanqinyin/" rel="home">SunYan'S Blog</a></h1>
+<p class="site-description"> 世界上只有一种成功，那就是按照自己喜欢的方式生活。</p>
+</div>
